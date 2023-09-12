@@ -5,7 +5,7 @@ IssueTracker est un projet interne à votre ESN pour facilement suivre les probl
 
 Il existe deux types d'utilisateurs :
 -  les utilisateurs classiques, généralement des clients, qui ont la fonction USER
--  les développeurs, qui ont la fonctions DEVELOPER
+-  les développeurs, qui ont la fonction DEVELOPER
 
 Un utilisateur ou un développeur peut faire remonter un problème (Issue) rencontré sur l'application. Cette Issue est 
 identifiée par un id unique, possède un titre et un contenu, ainsi qu'une date de création et une date de clôture.
