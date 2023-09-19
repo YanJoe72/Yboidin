@@ -105,6 +105,6 @@ Cliquez ensuite sur la branche "feature-issue" puis dans les options proposées 
 Ouvrez ensuite le fichier PARTIE-2.md
 
 
-[metier-uml]: https://drive.google.com/file/d/1hywxcUTtbVRyL7lheg-Xm3hR1cSKWP0F/view?usp=sharing
-[package-user-uml]: https://drive.google.com/file/d/1fv3A-LL1bbCEDkctDX-feOvsbhBxbpwX/view?usp=sharing
+[metier-uml]: https://drive.google.com/file/d/1abwaTS0gv2PibXpC1kuRAkSSp8KtT534/view?usp=sharing
+[package-user-uml]: https://drive.google.com/file/d/1FSttIFnJBcvFN13DfsezvjzEspzf9Nrg/view?usp=sharing
 [cours-api-spring]: https://nathanael-gimenez.canoprof.fr/eleve/DA4%20-%20Programmation%20Avanc%C3%A9e/activities/API_REST_avec_Spring.html
