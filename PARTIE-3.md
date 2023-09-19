@@ -11,5 +11,5 @@ Aidez-vous du [cours][cours-api-spring] et de votre travail précédent
 
 
 
-[full-app-uml]: https://drive.google.com/file/d/1CeDW1-Vm3tQ8xy1E3f0JQp80gs_eO0vq/view?usp=sharing
+[full-app-uml]: https://drive.google.com/file/d/12wVgjM0IOLScsqh_UlgHsF5d9yKHjXRG/view?usp=drive_link
 [cours-api-spring]: https://nathanael-gimenez.canoprof.fr/eleve/DA4%20-%20Programmation%20Avanc%C3%A9e/activities/API_REST_avec_Spring.html
