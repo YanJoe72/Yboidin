@@ -5,7 +5,7 @@ IssueTracker est un projet interne à votre ESN pour facilement suivre les probl
 
 Il existe deux types d'utilisateurs :
 -  les utilisateurs classiques, généralement des clients, qui ont la fonction USER
--  les développeurs, qui ont la fonctions DEVELOPER
+-  les développeurs, qui ont la fonction DEVELOPER
 
 Un utilisateur ou un développeur peut faire remonter un problème (Issue) rencontré sur l'application. Cette Issue est 
 identifiée par un id unique, possède un titre et un contenu, ainsi qu'une date de création et une date de clôture.
@@ -105,6 +105,6 @@ Cliquez ensuite sur la branche "feature-issue" puis dans les options proposées 
 Ouvrez ensuite le fichier PARTIE-2.md
 
 
-[metier-uml]: https://drive.google.com/file/d/1hywxcUTtbVRyL7lheg-Xm3hR1cSKWP0F/view?usp=sharing
-[package-user-uml]: https://drive.google.com/file/d/1fv3A-LL1bbCEDkctDX-feOvsbhBxbpwX/view?usp=sharing
+[metier-uml]: https://drive.google.com/file/d/1abwaTS0gv2PibXpC1kuRAkSSp8KtT534/view?usp=sharing
+[package-user-uml]: https://drive.google.com/file/d/1FSttIFnJBcvFN13DfsezvjzEspzf9Nrg/view?usp=sharing
 [cours-api-spring]: https://nathanael-gimenez.canoprof.fr/eleve/DA4%20-%20Programmation%20Avanc%C3%A9e/activities/API_REST_avec_Spring.html
